@@ -5,6 +5,7 @@ public class CastingDTO {
 	public Object getObject() {
 		return object;
 	}
+	//test
 	public void setObject(Object object) {
 		this.object = object;
 	}
