@@ -6,6 +6,7 @@ public class CastingDTO {
 		return object;
 	}
 	//test
+	//i am confused
 	public void setObject(Object object) {
 		this.object = object;
 	}
